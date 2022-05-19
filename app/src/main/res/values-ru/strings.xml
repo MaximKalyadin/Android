@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="view_report">Посмотреть отчет</string>
+    <string name="Add">Дoбавить</string>
+    <string name="Edit">Редактировать</string>
+    <string name="Delete">Удалить</string>
+    <string name="title">Название</string>
+    <string name="description">Описание</string>
+    <string name="look">Просмотрено</string>
+    <string name="mark_text_view">Оценка</string>
+    <string name="save">Сохранить</string>
+    <string name="export">Экспорт</string>
+    <string name="import_json">Импорт</string>
+</resources>
